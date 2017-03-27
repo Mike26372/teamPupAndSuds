@@ -1,5 +1,5 @@
 # teamPupAndSuds
-### getting started
+### Getting Started
 To get started, you will need some API keys to make everything work.  Please get API keys for the following:
 
 1. https://dev.twitter.com/
